@@ -1,0 +1,4 @@
+Mi IP pública es: 186.22.17.35
+Mi usuario es: luli
+El Hash de mi usuario es: $y$j9T$HTZPPcMzFCbdlhcLMUEd4.$BTtgEP1jDDG84KxEaQCNG75/S73kmL1PUv6r.N3BtD3
+La URL de mi repositorio es: https://github.com/LourdesValdiviezo/UTNFRA_SO_1P2C_2024_Valdiviezo.git
